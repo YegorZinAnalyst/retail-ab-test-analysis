@@ -26,4 +26,4 @@
 
 ### 📥 Результат работы
 Вы можете скачать готовый автоматизированный отчет: 
-[**Скачать Excel-калькулятор (A/B Test Results)**](https://github.com)
+[**Скачать Excel-калькулятор (A/B Test Results)**](https://github.com/YegorZinAnalyst/retail-ab-test-analysis/raw/main/output/ab_test_calculator_final.xlsx)
